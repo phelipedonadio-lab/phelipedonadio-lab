@@ -1,4 +1,8 @@
-## Hi there 👋
+# Olá, eu sou o Phelipe DOnadio!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python e C#
+- Preparando-se para o mercado de tecnologia
+- Contato: phelipe_donadio@hotmail.com
 
 <!--
 **phelipedonadio-lab/phelipedonadio-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
