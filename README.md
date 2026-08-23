@@ -1,4 +1,4 @@
-# Olá, eu sou o Phelipe DOnadio!
+# Olá, eu sou o Phelipe Donadio!
 - Estudante de Desenvolvimento de Sistemas
 - Focado em Python e C#
 - Preparando-se para o mercado de tecnologia
