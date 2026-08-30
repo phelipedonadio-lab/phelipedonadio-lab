@@ -1,4 +1,8 @@
 # Olá, eu sou o Phelipe Donadio!
+
+**Estudante de Desenvolvimento de Sistemas | Focado em Python e C# |
+Preparando-se para o mercado**
+---
 ## 🚀 Sobre Mim
 * 🎓 Formado em **Técnico em Administração** (ETEC) e cursando **Técnico em Desenvolvimento de Sistemas**.
 * 💼 Atualmente atuando no **Setor Financeiro**, na área de suporte a sistemas.
@@ -14,7 +18,7 @@
 
 ---
 
-## 📬 Como me encontrar
+## 📬 Contato
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phelipe_donadio@hotmail.com)
 <!--
 **phelipedonadio-lab/phelipedonadio-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
