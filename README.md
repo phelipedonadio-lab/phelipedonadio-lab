@@ -21,6 +21,7 @@ Preparando-se para o mercado**
 ## 📬 Contato
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phelipe_donadio@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/phelipe-donadio-26238221b)
+
 <!--
 **phelipedonadio-lab/phelipedonadio-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
